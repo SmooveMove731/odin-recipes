@@ -1,0 +1,11 @@
+#recipeheader{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+#lasagnapic{
+    width: 500px;
+}
+
+*{
+    background-color: lightgray;
+}
